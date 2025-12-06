@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash</h1> 
+<h1 align="center">Hi 👋, I'm Kunal</h1> 
 <h3 align="center">A passionate software engineer from India</h3> 
 
 # 💻 Tech Stack:
