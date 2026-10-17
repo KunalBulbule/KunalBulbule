@@ -1,14 +1,14 @@
  <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kunal%20Bulbule&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kunal%20Bulbule&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+scalable+web+applications;Java+%7C+Spring+Boot+%7C+PHP+%7C+Laravel+%7C+React;Clean+code.+Solid+database+design.+Real+products." alt="Typing SVG" />
 
 <br/>
 
 ![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-2EA44F?style=for-the-badge)
-![Role](https://img.shields.io/badge/Role-Full_Stack_%7C_Backend_Developer-0A66C2?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Software_Developer-0A66C2?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-India-orange?style=for-the-badge)
 
 <a href="https://linkedin.com/in/kunalbulbule"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -31,31 +31,71 @@ I design and build **production-ready web applications**, from database schema t
 
 <br/>
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Skills
 
 <div align="center">
 
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,html,css&theme=dark" /><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap&theme=dark" /><br/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /><br/>
-
-**Tools & Cloud**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,azure,vscode&theme=dark" />
-
-<br/><br/>
-
-![RHCSA](https://img.shields.io/badge/Red_Hat_Certified-System_Administrator_(RHCSA)-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,html,css,react,bootstrap,mysql,mongodb,git,github,linux,azure,vscode&theme=dark&perline=8" />
 
 </div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="170"><b>⚙️ Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>☁️ DevOps & Cloud</b></td>
+<td>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Red_Hat_RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td><b>🛠️ Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>🧠 Core Concepts</b></td>
+<td>
+<img src="https://img.shields.io/badge/OOP-2C5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CRUD_Operations-2C5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database_Design-2C5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Authentication-2C5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Role--Based_Access_Control-2C5364?style=for-the-badge" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -105,7 +145,7 @@ I design and build **production-ready web applications**, from database schema t
 
 ## 🤝 Let's Work Together
 
-I'm looking for **Full Stack / Backend Developer** roles where I can build impactful products and grow with a strong engineering team.
+I'm looking for **Software Developer** roles where I can build impactful products and grow with a strong engineering team.
 
 <div align="center">
 
